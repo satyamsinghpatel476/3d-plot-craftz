@@ -1,5 +1,7 @@
 # PartForge 3D
 
+Repository: `3d-plot-craftz`.
+
 PartForge 3D is a full-stack 3D printing service and e-commerce website built with Next.js App Router, Supabase, Razorpay, Tailwind CSS, and a provider-ready AI recommendation layer.
 
 It supports STL upload, 3D preview, print quoting, product shopping, cart, checkout, authentication, orders, reviews, support tickets, admin management, and database/security files for production deployment.
